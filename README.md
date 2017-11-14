@@ -1,2 +1,4 @@
 # arq_implimentation
-stop and wiat
+stop and wait
+go back N RQ
+selective repeat
